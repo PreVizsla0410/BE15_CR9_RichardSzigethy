@@ -175,15 +175,21 @@ SELECT * FROM item WHERE price <="50";
 
 --2
 
--- shows items which are not available 
+-- shows the sum of my orders 
 
-SELECT * FROM item WHERE availability ="0";
+SELECT SUM(sum) FROM orders;
 
---1
+226
 
--- shows which orders are not shipped yet
+-- shows the average sum of my orders
 
-SELECT * FROM shipping WHERE shipping_done ="0";
+SELECT AVG(sum)
+FROM orders;
 
-1
+75.3333 
+
+--adding together the orders ID´s and customer orders 
+
+select customer_ID, First_Name, Last_Name, address from customers join item on item_id = customer_ID;
+
 
