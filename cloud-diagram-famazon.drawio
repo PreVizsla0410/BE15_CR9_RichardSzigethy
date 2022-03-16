@@ -1,50 +1,26 @@
 <mxfile host="65bd71144e">
     <diagram id="1T6njB8qg0pEn6kVZKSy" name="Page-1">
-        <mxGraphModel dx="1781" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1637" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Purpose of my website" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="2" value="My website" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
                     <mxGeometry x="310" y="790" width="170" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Tailored products for my&lt;br&gt;&amp;nbsp;demands and wishes" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="710" width="270" height="150" as="geometry"/>
+                <mxCell id="9" value="Sellers" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="650" width="270" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Fast Shippment&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="-20" y="380" width="230" height="130" as="geometry"/>
+                <mxCell id="11" value="Interaction&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="380" width="230" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Maybe raise interest in&amp;nbsp;&lt;br&gt;products which could suit&amp;nbsp;&lt;br&gt;the customer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="620" width="230" height="190" as="geometry"/>
+                <mxCell id="12" value="Products" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="540" width="170" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="good price comparison" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="580" width="170" height="130" as="geometry"/>
+                <mxCell id="20" value="Shipping" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="430" width="260" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Regionality" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="200" y="370" width="120" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="14" value="Picking out a fitting company&amp;nbsp;&lt;br&gt;for needs" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="500" width="210" height="90" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" value="identify with website/company" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="380" width="160" height="105" as="geometry"/>
-                </mxCell>
-                <mxCell id="17" value="Binding cusomer relationship" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="340" y="490" width="280" height="130" as="geometry"/>
-                </mxCell>
-                <mxCell id="18" value="Discounts&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="410" y="400" width="120" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="19" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="18">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="480" y="500" as="sourcePoint"/>
-                        <mxPoint x="440" y="650" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="20" value="" style="endArrow=none;html=1;exitX=0.714;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="17" target="16">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="390" y="700" as="sourcePoint"/>
-                        <mxPoint x="440" y="650" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="21" value="Customer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="600" width="260" height="150" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
